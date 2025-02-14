@@ -1,0 +1,74 @@
+
+
+
+<html>
+<head>
+<title>my second webpage 27/12/2024 15:21</title>
+<body bgcolor ="pink">
+<h1 align ="center">form</h1>
+<form>
+
+<h3><label for ="fname">Enter your first name:</label><br/></h3>
+<input type ="text";placeholder="Enter your first name"<br/></h3>
+
+<h3><label for ="lname">Enter your last name:</label><br/></h3>
+<input type ="text";placeholder="Enter your last name"<br/></h3><br/>
+<br/>
+<h3>enter your gender</h3>
+<input type= "radio" name = "gender" value ="male">male
+<input type= "radio" name = "gender" value ="female">female
+<br/>
+
+<h3><label for ="language">Enter the languages that you know:</label><br/></h3>
+<input type ="text";placeholder="Enter the languages that you know:"<br/></h3>
+<br/>
+<br/>
+<br/>
+
+<input type ="date" name="date123" > today's date <br/>
+<input type ="date" name="date of birth"> Your DOB<br/>
+
+<h3>Select your favourite subject</h3><br/>
+<select name="dropdown"><br/>
+<option value="maths"selected >maths 
+<option value="physics"selected >physics
+<option value="computer science"selected >computer science
+<option value="english"selected >english 
+<option value="music"selected >music 
+ <br/>
+<br/>
+<br/>
+
+<h3><lable for ="phno">Enter your contact number:</lable><br/></h3>
+<input type ="text";placeholder="Enter your contact number:"<br/></h3>
+ <br/>
+<h3><label for ="address">Enter your current address:</label><br/></h3>
+<input type ="text";placeholder="Enter your current address"<br/></h3>
+ <br/>
+<h3><label for ="address">Enter your permanent address:</lable><br/></h3>
+<input type ="text";placeholder="Enter your permanent address"<br/></h3>
+ <br/>
+<h3><label for ="address">Enter pin code:</lable><br/></h3>
+<input type ="text";placeholder="Enter your pin code"<br/></h3>
+ <br/>
+<h3><label for ="address">Enter your state:</lable><br/></h3>
+<input type ="text";placeholder="Enter your state"<br/></h3>
+ <br/>
+<h3><label for ="address">Enter your country:</lable><br/></h3>
+<input type ="text";placeholder="Enter your country"<br/></h3>
+ <br/>
+
+<h3><lable for ="phno">Enter your email address :</lable><br/></h3>
+<input type ="text";placeholder="Enter your email address:"<br/></h3>
+ <br/>
+<br/>
+<br/>
+
+
+
+<p align="center"><input type="reset" value="Reset"></p>
+<p align="center"><input type="submit" value="Submit"></p>
+
+</form>
+</body>
+</html>S
